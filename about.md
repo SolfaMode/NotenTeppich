@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Über uns
+permalink: /ueber-uns/
 ---
 
-Hier fehlt Text über diese Webseite.
+Hier fehlt Text über uns.
 
 ![Noten Teppich](/assets/images/NotenTeppich320.png)
 
