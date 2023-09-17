@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+  - videos.md
   - links.md
   - about.md
 
