@@ -19,10 +19,4 @@ permalink: /links/
 - [Modus Zirkel Webseite (en)](https://sites.google.com/view/modecircle/en)
 - [Modus Zirkel Webseite (de)](https://sites.google.com/view/modecircle/de)
 
-- [jekyll](https://github.com/jekyll/jekyll)
-- [jekyllrb.com](https://jekyllrb.com/)
-- [jekyll-organization](https://github.com/jekyll)
-- [minima](https://github.com/jekyll/minima)
-
-
-
+- [How-To (intern)](/intern/howto)

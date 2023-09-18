@@ -31,9 +31,11 @@ plugins:
 
 header_pages:
   - videos.md
+  - app.md
   - links.md
-  - about.md
+#  - about.md
 
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
