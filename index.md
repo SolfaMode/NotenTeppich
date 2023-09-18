@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Noten Teppich](/assets/images/NotenTeppich.jpg)
+![Noten Teppich](/assets/images/Notenteppich.jpg)
