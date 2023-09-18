@@ -16,6 +16,7 @@
 title: Notenteppich
 lang: de
 # email: Hier fehlt eine Email-Adresse.
+description: Musiktheorie
 #description: >- # this means to ignore newlines until "baseurl:"
 #   Der Notenteppich ist ein didaktisches Instrument zum Visualisieren musikalischer Zusammenhänge des Notensystems.
 baseurl: "" # the subpath of your site, e.g. /blog
