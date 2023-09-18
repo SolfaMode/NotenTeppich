@@ -6,4 +6,4 @@ In dieser kleinen Videoserie werfen wir einen Blick hinter die Notenschrift, gen
 
 Die Videoserie "Musiktheorie auf dem Notenteppich" gibt es auf [YouTube](https://www.youtube.com/playlist?list=PLncPrR8MvdMFIWQImWxouuxsbL57WbIJw).
 
-{% include youtube.html id="3HsD2eS7d_c?si=wN3oRYFvU9XpA3D9" %}
+{% include youtube.html id="videoseries?si=9uGaJ6Dz75kdrKc3&amp;list=PLncPrR8MvdMFIWQImWxouuxsbL57WbIJw" %}
